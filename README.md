@@ -19,8 +19,8 @@ Name | Description
 
 Name | Status
 ---- | ------
-[CDorst.Addresses.StateCityZips](https://github.com/CDorst/Addresses.StateCityZips) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/addresses-statecityzips.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/addresses-statecityzips) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.Addresses.StateCityZips.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.Addresses.StateCityZips)
 [CDorst.Addresses.StateCities.DatabaseContext](https://github.com/CDorst/Addresses.StateCities.DatabaseContext) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/addresses-statecities-databasecontext.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/addresses-statecities-databasecontext) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.Addresses.StateCities.DatabaseContext.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.Addresses.StateCities.DatabaseContext)
+[CDorst.Addresses.StateCityZips](https://github.com/CDorst/Addresses.StateCityZips) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/addresses-statecityzips.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/addresses-statecityzips) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.Addresses.StateCityZips.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.Addresses.StateCityZips)
 
 ## Dependents
 
@@ -38,7 +38,7 @@ This project is published as a NuGet package at [https://www.nuget.org/packages/
 
 ## Version
 
-1.0.4
+1.0.5
 
 ## Metaproject
 
